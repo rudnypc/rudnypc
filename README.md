@@ -17,7 +17,7 @@ Hi there, I'm Rudny 👋
 I'm a DevOps Engineer 💻, Linux Maniac 🐧, and Opensource Lover ❤️!
 </h2> 
 
-I love the entire process of deploy a new stack. I love the challenge of solve problems and spending time to meet new technologies. Learning how to improve my skills and help the community.
+I love the entire process of deploying a new stack. I love the challenge of solving problems and spending time to meet new technologies. Learning how to improve my skills and help the community.
 
 ### 🤝 Connect with me:
 
@@ -30,7 +30,7 @@ I love the entire process of deploy a new stack. I love the challenge of solve p
 ## 🔭 I'm currently working on
 
 - I’m currently working on something cool
-- Sending my existing projects to the github
+- I'm submitting all my projects for the community to use
 - Migrating some DC to the cloud.
 
 ## 🌱 I'm currently learning
