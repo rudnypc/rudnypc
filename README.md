@@ -81,4 +81,4 @@ I love the entire process of deploy a new stack. I love the challenge of solve p
 
 [![Rudny github stats](https://github-readme-stats.vercel.app/api?username=rudnypc)](https://github.com/rudnypc)
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=rudnypc.rudnypc)]
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=rudnypc.rudnypc)
